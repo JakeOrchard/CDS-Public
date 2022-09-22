@@ -12,4 +12,4 @@
  To run Step_4 you will need your own BLS API key. These are free and can be obtained on their website. 
  
  You'll also need your own fredkey. Place the Fredkey in the main.do file. 
->>>>>>> 96a24d39fa6667ff207c0339fc13cc5b4e84df65
+
