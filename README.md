@@ -1,7 +1,7 @@
 # CDS
  Replication Code for Cyclical Demand Shifts and Cost of Living Inequality
  
- You can use any portion of my code or the CEX-CPI crosswalk with proper attribution (see license for legal details). 
+ You can use any portion of my code or the CEX-CPI crosswalk with proper attribution (see license). 
  
  Please cite as:
  
